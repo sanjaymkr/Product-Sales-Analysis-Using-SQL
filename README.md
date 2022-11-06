@@ -1,7 +1,7 @@
 # Product-Sales-Analysis-Using-SQL
 
 ## Overview
-The data set I used for this project can be found here. And it contains three years worth of sales data of different product lines across different countries. The aim of this project is to understand the overall sales performance of this company (let’s call it Moveit Limited).
+The data contains three years worth of sales data of different product lines across different countries. The aim of this project is to understand the overall sales performance of this company (let’s call it Moveit Limited).
 
 ## Problem Statement
 Moveit Ltd has been in operations for a little over 2 years and they want to understand the following:
